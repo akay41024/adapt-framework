@@ -1,0 +1,6 @@
+{
+  "name": "grunt-file-order",
+  "description": "Helpers for ordering files",
+  "version": "1.0.0",
+  "main": "index.js"
+}

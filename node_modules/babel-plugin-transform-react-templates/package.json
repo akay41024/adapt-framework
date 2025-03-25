@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-react-templates",
+  "version": "0.1.0",
+  "description": "Babel plugin to register react templates with a global function",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.10.4",
+    "minimatch": "^3.0.4"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/helper-plugin-test-runner": "^7.10.4"
+  }
+}
