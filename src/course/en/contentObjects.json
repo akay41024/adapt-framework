@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "co-100",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "Introduction",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false,
+      "_isCompletionIndicatorEnabled": false
+     
+    }
+  },
+  {
+    "_id": "co-200",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Getting union members involved",
+    "displayTitle": "",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "Getting union members involved",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false,
+      "_isCompletionIndicatorEnabled": false
+     
+    }
+    
+  },
+  {
+    "_id": "co-300",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Getting workplace leader invovled",
+    "displayTitle": "",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "Getting workplace leader invovled",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false,
+      "_isCompletionIndicatorEnabled": false
+     
+    }
+    
+  }
+]

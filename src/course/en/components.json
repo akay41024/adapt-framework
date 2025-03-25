@@ -1,0 +1,393 @@
+[
+  {
+    "_id": "c-100",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Overview of the module",
+    
+    "displayTitle": "Overview of the module",
+    "body": "This 15 minute module on building the team covers: <br/> <ul> <li>why it’s important to get more members involved in union activity </li>  <li>involving other people in union activity </li>   <li>spotting good informal leaders and involving them in union activity </li>  <li>encouraging younger members to get active in the union.</li></ul> There are two scenarios in this module. You can try either or both of them to complete the module. ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-105",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "c-105",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/New_Project.png",
+      "small": "course/en/images/New_Project.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_isOptional": true
+  },
+  {
+    "_id": "c-110",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Why is it important to build your organising team?",
+    "displayTitle": "",
+    "body": "Select the image to find out.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-111",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/6000485efbebe6432bf73002.png",
+      "small": "course/en/images/6000485efbebe6432bf73002.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_isOptional": true
+  },
+  {
+    "_id": "c-112",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/6012c3b0c3228a1a356033ff.png",
+      "small": "course/en/images/6012c3b0c3228a1a356033ff.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_isOptional": true
+  },
+  {
+    "_id": "c-113",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/6012c3d6ca252d1f755aa0cb.png",
+      "small": "course/en/images/6012c3d6ca252d1f755aa0cb.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_isOptional": true
+  },
+  {
+    "_id": "c-115",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "blank",
+    "_classes": "",
+    "_layout": "right",
+    "title": "c-115",
+    "_isOptional": true
+  },
+  {
+    "_id": "c-120",
+    "_parentId": "b-110",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Adding to the discussion",
+    "displayTitle": "",
+    "body": "Add to the discussion by sharing some information about your current situation as a union rep: <ul> <li>Are you working alone? </li> <li>Do you have other members and reps helping you? </li> </ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-121",
+    "_parentId": "b-110",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/5ffc501ad857447f363fe967.gif",
+      "small": "course/en/images/5ffc501ad857447f363fe967.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "c-200",
+    "_parentId": "b-200",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "Asking",
+    "body": "Don’t be afraid to ask people to get involved in your organising team.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+ 
+  {
+    "_id": "c-201",
+    "_parentId": "b-200",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Use the arrow to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_hasNavigationInTextArea": false,
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "The most effective thing you can do to build your organising team is to ask! ",
+        "_graphic": {
+          "src": "course/en/images/question_image.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Ask"
+      },
+      {
+        "title": "",
+        "body": "If they say no, don’t push, but don’t give up too easily either.",
+        "_graphic": {
+          "src": "course/en/images/question_image2.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Don't give up"
+      },
+      {
+        "title": "",
+        "body": "Try to find out why they’re reluctant – they may <br/> be scared of the reaction of management or <br/> they may lack confidence. You might be able to help them to overcome these fears. ",
+        "_graphic": {
+          "src": "course/en/images/question_image3.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Find out why"
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "_id": "c-205",
+    "_parentId": "b-205",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "Asking union members to join your organising team seems like an obvious place to start when building your organising team. If they agree to get involved, the following tips will help ensure their experience is a good one. <ul> <li>Make what you ask them to do relevant to them – something that they care about.</li> <li>Be realistic about what you ask them to do – make sure that it’s achievable. </li> <li>Give them small tasks to start off with and, as you identify their strengths and their confidence grows, give them bigger and more complex tasks.  </li>  <li>Emphasise how members strengthen the union and can make it more effective. </li> <li>Make it clear that you and everyone in the union value all offers of help.  </li></ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+
+  {
+    "_id": "c-206",
+    "_parentId": "b-205",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "c-105",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/bulb.gif",
+      "small": "course/en/images/bulb.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_isOptional": true
+  },
+  {
+    "_id": "c-210",
+    "_parentId": "b-210",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "How can union members help?",
+    "body": "There are lots of different ways that union members can help with organising",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id":"c-211",
+    "_parentId":"b-210",
+    "_type":"component",
+    "_component":"flipcard",
+    "_classes":"",
+    "_layout":"left",
+    "title": "Flip Card",
+    "displayTitle": "Flip Card",
+    "body": "This is optional body text. Click the image below to reveal the text.",
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+        {
+            "frontImage": {
+                "src": "course/en/images/board.png",
+                "alt": "flipcard item 1 graphic alt text here."
+            },
+            "backTitle": "Heading 1",
+            "backBody": "This is display text 1."
+        },
+        {
+            "frontImage": {
+                "src": "course/en/images/6012c3b0c3228a1a356033ff.png",
+                "alt": "flipcard item 1 graphic alt text here."
+            },
+            "backTitle": "Heading 2",
+            "backBody": "<ul><li>This is list item 1.</li><li>This is list item 2.</li></ul>"
+        }
+    ]
+},
+ 
+  {
+    "_id":"c-212",
+    "_parentId":"b-210",
+    "_type":"component",
+    "_component":"flipcard",
+    "_classes":"",
+    "_layout":"right",
+    "title": "Flip Card",
+    "displayTitle": "Flip Card",
+    "body": "This is optional body text. Click the image below to reveal the text.",
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+        {
+            "frontImage": {
+                "src": "course/en/images/two_people.png",
+                "alt": "flipcard item 1 graphic alt text here."
+            },
+            "backTitle": "Heading 1",
+            "backBody": "This is display text 1."
+        },
+        {
+            "frontImage": {
+                "src": "course/en/images/join_your_union.png",
+                "alt": "flipcard item 1 graphic alt text here."
+            },
+            "backTitle": "Heading 2",
+            "backBody": "<ul><li>This is list item 1.</li><li>This is list item 2.</li></ul>"
+        }
+    ]
+},
+ 
+  {
+    "_id": "c-300",
+    "_parentId": "b-300",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Introduction",
+    
+    "displayTitle": "",
+    "body": "This 15 minute module on building the team covers: <br/> <ul> <li>why it’s important to get more members involved in union activity </li>  <li>involving other people in union activity </li>   <li>spotting good informal leaders and involving them in union activity </li>  <li>encouraging younger members to get active in the union.</li></ul> There are two scenarios in this module. You can try either or both of them to complete the module. ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+
+]
